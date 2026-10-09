@@ -10,21 +10,17 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: [ 
-                    "No comeco era uma novidade interessante, mas a medida que fui percebendo o potencial tecnologico fiquei perplexo.", 
-                    "Foi aterrorizante quando a IA respondeu todas as minhas perguntas.",
-                    "Estupefante perceber o potencial de criacao de imagens."
-
-                ] 
+                afirmacao:  [
+                    "Fiquei perplexo ao perceber o potencial de problemas associados a esta nova tecnologia.",
+                    "Meu Deus! Como pode algo responder todas essas perguntas com tanta facilidade?"
+                ]
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: [ 
-                    "No comeco era uma novidade interessante, mas a medida que fui percebendo o potencial tecnologico fiquei perplexo.", 
-                    "Foi aterrorizante quando a IA respondeu todas as minhas perguntas.",
-                    "Estupefante perceber o potencial de criacao de imagens."
-
-                ] 
+                afirmacao: [
+                    "Fiquei perplexo ao perceber o potencial de problemas associados a esta nova tecnologia.",
+                    "Meu Deus! Como pode algo responder todas essas perguntas com tanta facilidade?"
+                ]
             }           
             
         ]
@@ -34,21 +30,17 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
-                afirmacao:[ 
-                    "No comeco era uma novidade interessante, mas a medida que fui percebendo o potencial tecnologico fiquei perplexo.", 
-                    "Foi aterrorizante quando a IA respondeu todas as minhas perguntas.",
-                    "Estupefante perceber o potencial de criacao de imagens."
-
-                ] 
+                afirmacao:[
+                    "Fiquei perplexo ao perceber o potencial de problemas associados a esta nova tecnologia.",
+                    "Meu Deus! Como pode algo responder todas essas perguntas com tanta facilidade?"
+                ]
             },
             {
                 texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao:[ 
-                    "No comeco era uma novidade interessante, mas a medida que fui percebendo o potencial tecnologico fiquei perplexo.", 
-                    "Foi aterrorizante quando a IA respondeu todas as minhas perguntas.",
-                    "Estupefante perceber o potencial de criacao de imagens."
-
-                ] 
+                afirmacao:[
+                    "Fiquei perplexo ao perceber o potencial de problemas associados a esta nova tecnologia.",
+                    "Meu Deus! Como pode algo responder todas essas perguntas com tanta facilidade?"
+                ]
             }
         ]
     },
@@ -57,21 +49,17 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao:[ 
-                    "No comeco era uma novidade interessante, mas a medida que fui percebendo o potencial tecnologico fiquei perplexo.", 
-                    "Foi aterrorizante quando a IA respondeu todas as minhas perguntas.",
-                    "Estupefante perceber o potencial de criacao de imagens."
-
-                ] 
+                afirmacao:[
+                    "Fiquei perplexo ao perceber o potencial de problemas associados a esta nova tecnologia.",
+                    "Meu Deus! Como pode algo responder todas essas perguntas com tanta facilidade?"
+                ]
             },
             {
                 texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao:[ 
-                    "No comeco era uma novidade interessante, mas a medida que fui percebendo o potencial tecnologico fiquei perplexo.", 
-                    "Foi aterrorizante quando a IA respondeu todas as minhas perguntas.",
-                    "Estupefante perceber o potencial de criacao de imagens."
-
-                ] 
+                afirmacao:[
+                    "Fiquei perplexo ao perceber o potencial de problemas associados a esta nova tecnologia.",
+                    "Meu Deus! Como pode algo responder todas essas perguntas com tanta facilidade?"
+                ]
             }
             
         ]
@@ -81,21 +69,17 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao:[ 
-                    "No comeco era uma novidade interessante, mas a medida que fui percebendo o potencial tecnologico fiquei perplexo.", 
-                    "Foi aterrorizante quando a IA respondeu todas as minhas perguntas.",
-                    "Estupefante perceber o potencial de criacao de imagens."
-
-                ] 
+                afirmacao:[
+                    "Fiquei perplexo ao perceber o potencial de problemas associados a esta nova tecnologia.",
+                    "Meu Deus! Como pode algo responder todas essas perguntas com tanta facilidade?"
+                ]
             },
             {
                 texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao:[ 
-                    "No comeco era uma novidade interessante, mas a medida que fui percebendo o potencial tecnologico fiquei perplexo.", 
-                    "Foi aterrorizante quando a IA respondeu todas as minhas perguntas.",
-                    "Estupefante perceber o potencial de criacao de imagens."
-
-                ] 
+                afirmacao:[
+                    "Fiquei perplexo ao perceber o potencial de problemas associados a esta nova tecnologia.",
+                    "Meu Deus! Como pode algo responder todas essas perguntas com tanta facilidade?"
+                ]
             }
             
         ]
@@ -105,21 +89,17 @@ const perguntas = [
         alternativas: [
             {
                 texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao:[ 
-                    "No comeco era uma novidade interessante, mas a medida que fui percebendo o potencial tecnologico fiquei perplexo.", 
-                    "Foi aterrorizante quando a IA respondeu todas as minhas perguntas.",
-                    "Estupefante perceber o potencial de criacao de imagens."
-
-                ] 
+                afirmacao:[
+                    "Fiquei perplexo ao perceber o potencial de problemas associados a esta nova tecnologia.",
+                    "Meu Deus! Como pode algo responder todas essas perguntas com tanta facilidade?"
+                ]
             },
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao:[ 
-                    "No comeco era uma novidade interessante, mas a medida que fui percebendo o potencial tecnologico fiquei perplexo.", 
-                    "Foi aterrorizante quando a IA respondeu todas as minhas perguntas.",
-                    "Estupefante perceber o potencial de criacao de imagens."
-
-                ] 
+                afirmacao:[
+                    "Fiquei perplexo ao perceber o potencial de problemas associados a esta nova tecnologia.",
+                    "Meu Deus! Como pode algo responder todas essas perguntas com tanta facilidade?"
+                ]
             }
             
             
@@ -152,7 +132,7 @@ function mostraAlternativas(){
 }
 
 function respostaSelecionada(opcaoSelecionada){
-    const afirmacoes = opcaoSelecionada.afirmacao;
+    const afirmacoes = aleario(opcaoSelecionada.afirmacao);
     historiaFinal += afirmacoes + " ";
     atual++;
     mostraPergunta();
@@ -162,6 +142,9 @@ function mostraResultado(){
     caixaPerguntas.textContent = "Em 2049...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = ""; 
+}
+function aleatorio (lista){
+    const posicao = Mathfloor(Math.random()* lista.length);
 }
 
 mostraPergunta();
